@@ -1,8 +1,8 @@
 # Michael Fisher
 
-Data analyst in Austin. Most of my work is getting data out of places that weren't built to give it up (legacy databases, print-formatted spreadsheets, exports with merged cells), checking that nothing was lost on the way, and turning it into something people can use. I work mostly in Python, R and SQL, and I'm finishing an MBA in business analytics at UNT.
+I am a Data Analyst working for TX Gov. I have several years of analytics and research experience, and enjoy developing programmatic solutions for analysis, reporting, and data pipelines. I have worked with dbs that have been offline for 20+ years, modern warehousing tools, and everything in between. 
 
-The repos here are tools and pipelines I've built for my own use or rebuilt on public data so they can be shared. Each README has a "why it's built this way" section, because the odd decisions are usually the interesting part.
+I intend to share tools, scripts, and reports that I have made for personal use, and tools that I have created to use with public datasets that are representative of some of the more interesting problems that I have had to solve historically. Each README has a "why it's built this way" section, because the odd decisions are usually the interesting part.
 
 **Here now**
 
@@ -10,6 +10,6 @@ The repos here are tools and pipelines I've built for my own use or rebuilt on p
 - [llm-privacy-shield](https://github.com/Michael-Fisher9/llm-privacy-shield): swaps names and sensitive details for stand-ins before text goes to a hosted LLM, and back after
 - [job-review-helper](https://github.com/Michael-Fisher9/job-review-helper): Chrome extension that pulls up Glassdoor or Indeed reviews for the company on a job posting
 
-**Working on:** dbt and Snowflake, and a small series of repos covering each stage of a data pipeline, from extraction to the report.
+**Working on:** Data migrations, Snowflake, reports and dashboards, tools and data hubs for personal use. 
 
 [LinkedIn](https://www.linkedin.com/in/michael-fisher-3b4472335) · MichaelFisher@utexas.edu
